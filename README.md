@@ -6,7 +6,7 @@
 
 
 - 👨‍🏭 I’m currently pursuing **B.Tech ECSc at Kalinga Institue of Industrial Technology** 
-- 🏫 I’m currently learning ** Web Development, CSS , HTML,C++ and JavaScript** 
+- 🏫 I’m currently learning **Web Development, CSS , HTML,C++ and JavaScript** 
 - 🥅 2021 Goals: **Contribute more  projects & learn new skills**
 - 💬 Ask me about Anything **either I recall or I learn**
 
