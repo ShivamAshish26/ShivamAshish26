@@ -52,7 +52,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAshish26&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
 <br><br>
-<a href="https://github.com/remcohalman/github-readme-stats">
+<a href="https://github.com/ShivamAshish26/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShivamAshish26&layout=compact&theme=blue-green" />
 </a>
 
