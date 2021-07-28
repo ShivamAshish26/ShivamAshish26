@@ -57,14 +57,14 @@
 <hr/>
 
 <a href="https://github.com/rajivranjanmars">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivranjanmars&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAshish26&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajivranjanmars&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShivamAshish26&layout=compact&theme=blue-green" />
 </a>
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajivranjanmars)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamAshish26)](https://git.io/streak-stats)
 
