@@ -1,4 +1,4 @@
-### Hi ,I Am Shivam Ashish <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+###<h1 align="center">Hi I'm Shivam Ashish</h1> <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=ShivamAshish26&color=red)
 <h3>A budding programmer exploring new fields of development.</h3>
