@@ -13,8 +13,7 @@
 🕵 Take a look at my repositories and let's get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShivamAshish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-ashish-767b781ba/)](https://www.linkedin.com/in/shivam-ashish-767b781ba/) 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mail to:shivam2601@gmail.com)]
-(https://www.linkedin.com/in/shivam-ashish-767b781ba/) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mail to:shivam2601@gmail.com)] 
  ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ShivamAshish26)
 
 
