@@ -14,12 +14,13 @@
 ### 🕵 Take a look at my repositories and let's get in touch!
 
 <a href="https://www.linkedin.com/in/shivam-ashish-767b781ba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ShivamAshish" /></a>
-<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a></p>
+<a href="mailto:shivam2601@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shivam2601" /></a></p>
+[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/ShivamAshish26)
 
 
 <br>
 
-### Languages:
+### Languages Known:
 
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,12 +40,12 @@
 
 
 
-### Tools:
+### Tools Familiar With:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br><br>
-### 📈 Github Stats:
+### 📈 My Github Stats:
 <hr/>
 
 <a href="https://github.com/ShivamAshish26">
