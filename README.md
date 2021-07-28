@@ -11,7 +11,7 @@
 - 🥅 Passion for innovation, prototyping, and high-quality manufacturing
 - 💬 Ask me about Anything **either I recall or I learn**
 
-### 🕵 Take a look at my repositories and let's get in touch!
+### 🕵 Take a look at my repositories and let's get in touch! <img align="center" alt="Coding" width="70" height="45" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 
 <a href="https://www.linkedin.com/in/shivam-ashish-767b781ba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ShivamAshish" /></a>
 <a href="mailto:shivam2601@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shivam2601" /></a></p>
