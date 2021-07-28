@@ -2,18 +2,19 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=ecf05e47uqse20q4qfyqeo90wfxkblg3g9pfcmfc0hd73jh5&rid=giphy.gif&ct=g">
 
 ![](https://komarev.com/ghpvc/?username=ShivamAshish26&color=red)
-<h3>A budding programmer exploring new fields of development.</h3>
+<h3> Web Developer | Consultant | Database Management | SQL |</h3>
 
 
 
 - 👨‍🏭 I’m currently pursuing **B.Tech ECSc at Kalinga Institue of Industrial Technology** 
 - 🏫 I’m currently learning **Web Development, CSS , HTML,C++ and JavaScript** 
-- 🥅 2021 Goals: **Contribute more  projects & learn new skills**
+- 🥅 Passion for innovation, prototyping, and high-quality manufacturing
 - 💬 Ask me about Anything **either I recall or I learn**
 
 🕵 Take a look at my repositories and let's get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShivamAshish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-ashish-767b781ba/)](https://www.linkedin.com/in/shivam-ashish-767b781ba/) 
+<a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
+<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a></p>
 
 
 <br>
