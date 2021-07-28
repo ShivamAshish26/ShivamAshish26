@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> I'm Shivam Ashish</h1>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=ecf05e47uqse20q4qfyqeo90wfxkblg3g9pfcmfc0hd73jh5&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="500" height="500" src="https://media4.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=ecf05e47uqse20q4qfyqeo90wfxkblg3g9pfcmfc0hd73jh5&rid=giphy.gif&ct=g">
 
 ![](https://komarev.com/ghpvc/?username=ShivamAshish26&color=red)
 <h3> Web Developer | Consultant | Database Management | SQL |</h3>
