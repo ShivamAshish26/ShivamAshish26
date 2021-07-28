@@ -43,6 +43,7 @@
 ### Tools Familiar With:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
+<img align="left" alt="CodeBlocks" width="30px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" />
 
 <br><br>
 ### 📈 My Github Stats:
