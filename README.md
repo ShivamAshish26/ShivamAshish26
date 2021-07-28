@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> I'm Shivam Ashish</h1>
+![](https://media.istockphoto.com/videos/businessman-at-office-cartoon-hd-animation-video-id944133826)
 
 ![](https://komarev.com/ghpvc/?username=ShivamAshish26&color=red)
 <h3>A budding programmer exploring new fields of development.</h3>
