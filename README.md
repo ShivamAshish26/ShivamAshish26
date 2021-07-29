@@ -50,7 +50,7 @@
 <hr/>
 
 <a href="https://github.com/ShivamAshish26">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAshish26&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAshish26&show_icons=true&include_all_commits=true&theme=maroongold&count_private=true">
 </a>
 <br><br>
 <a href="https://github.com/ShivamAshish26/github-readme-stats">
