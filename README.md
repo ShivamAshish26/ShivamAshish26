@@ -54,7 +54,7 @@
 </a>
 <br><br>
 <a href="https://github.com/ShivamAshish26/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShivamAshish26&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShivamAshish26&layout=compact&theme=maroongold" />
 </a>
 
 <br><br>
