@@ -1,3 +1,6 @@
+<div align="center">
+<img width="700" height = "300" src="https://i.ibb.co/mX3ff27/shivam-ashish.png" alt="cover" />
+</div>
 <h1 align="center">Hi <img src="https://media2.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif?cid=ecf05e47kg4srgs52vef59psrd3ucktbjnaasmvcrote7eze&rid=giphy.gif&ct=g" width="150">   I'm Shivam Ashish</h1>
 <img align="right" alt="Coding" width="500" height="500" src="https://media4.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=ecf05e47uqse20q4qfyqeo90wfxkblg3g9pfcmfc0hd73jh5&rid=giphy.gif&ct=g">
 
