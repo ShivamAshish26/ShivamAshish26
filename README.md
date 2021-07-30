@@ -1,7 +1,7 @@
 <div align="center">
-<img width="600" height = "200" src="https://s6.gifyu.com/images/Developer-Content-Writer.gif" alt="cover" />
+<img width="1200" height = "300" src="https://s6.gifyu.com/images/Developer-Content-Writer.gif" alt="cover" />
 </div>
-<h1 align="center">Hi <img src="https://media2.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif?cid=ecf05e47kg4srgs52vef59psrd3ucktbjnaasmvcrote7eze&rid=giphy.gif&ct=g" width="80 " height=50>   I'm Shivam Ashish</h1>
+<h1 align="center">Hi <img src="https://media2.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif?cid=ecf05e47kg4srgs52vef59psrd3ucktbjnaasmvcrote7eze&rid=giphy.gif&ct=g" width="50 " height=40>   I'm Shivam Ashish</h1>
 <img align="right" alt="Coding" width="500" height="500" src="https://media4.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=ecf05e47uqse20q4qfyqeo90wfxkblg3g9pfcmfc0hd73jh5&rid=giphy.gif&ct=g">
 
 ![](https://komarev.com/ghpvc/?username=ShivamAshish26&color=blue)
